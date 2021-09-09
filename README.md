@@ -1,2 +1,2 @@
-# smile-detection
-Python code to detect smile on the faces.
+# Face-detection
+Python code to detect faces.
